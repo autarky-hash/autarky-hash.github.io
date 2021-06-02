@@ -5,11 +5,11 @@
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1330.JPG" height=px>
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1331.JPG" height=px>
 
-Background & Summary: I initially wanted to create a puzzle table made up of building blocks that connected to each other in lieu of creating a cargo bike trailer that had a lot of complexity. However, after our conversation in class where I went through my proposal and was told to simplify into something smaller, I actually went back to the drawing board and creating a "modular" version of a bike as well as connected cargo boxes- basically an amalgamation of the original concept but without magnets or large sizes. 
+### Background & Summary: I initially wanted to create a puzzle table made up of building blocks that connected to each other in lieu of creating a cargo bike trailer that had a lot of complexity. However, after our conversation in class where I went through my proposal and was told to simplify into something smaller, I actually went back to the drawing board and creating a "modular" version of a bike as well as connected cargo boxes- basically an amalgamation of the original concept but without magnets or large sizes. 
 
-Concepts Used: Rendering, AI Tracing, Rhino, Grasshopper, Cura, Finishing
+### Concepts Used: Rendering, AI Tracing, Rhino, Grasshopper, Cura, Finishing
 
-Components Created/Designed/Modified:
+### Components Created/Designed/Modified:
 1. Carla Cargo Trailer Frame
 2. Carla Cargo Trailer Hinges/Tow Bar
 3. Carla Cargo Trailer Wheels
