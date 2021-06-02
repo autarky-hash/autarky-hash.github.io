@@ -1,6 +1,6 @@
 # Diana Tan
 
-## Final Project
+# Final Project
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1329.JPG" height=px>
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1330.JPG" height=px>
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1331.JPG" height=px>
@@ -20,6 +20,8 @@ Rendering, AI Tracing, Rhino, Grasshopper, Cura, Finishing
 6. Voloroi Crate
 7. Folding Bin
 8. Custom Amazon Logo
+
+# Process
 
 ##Concept
 Carla Cargo: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1244.JPG
