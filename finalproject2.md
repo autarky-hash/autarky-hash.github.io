@@ -100,8 +100,8 @@ I first removed the supports from all my prints using a knife, scraper and finge
 ### Assembly:
 I designed the product to have minimal gluing, leveraging instead the screws as well as the tolerances of the bike trailer to hold everything in place. I screwed the axles onto the wheels. However, to further keep it from moving, I had to then hot glue the axle screw onto the trailer frame. I also had to glue the handle and the fork onto the bike. I tried to print components that can screw them together but the tolerances were too narrow for the 3D printer. The benefit of using hot glue is that it maintained the "flex" of the handle and the fork so we can still move the handle and fork a little bit like a real trailer. 
 
-<img src=" https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG" height=px>
-<img src=" https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG" height=px>
 
 ## STL Files
 Trailer Grasshopper:
