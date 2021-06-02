@@ -60,20 +60,28 @@ After going to the hardware store, I found that there were no mm screws that wou
 For the handlebars and frame, I ended up cutting them out of the CAD file, removing any complexity, combining the Mesh and then resizing them in a way that was printable.
 
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/ScrewRhino.png" height=px> 
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1325.JPG" height=px>
 
 ### Carla Wheels
 I used my own wheels from thingiverse as opposed to trying to modify the Carla CAD wheels because of the complexity of the number of spokes in the CAD file. I basically used the Distance function in Rhino to calculate the size and then scaled the wheels down. I also put both the wheel and the rims together and used a Flex PLA material to get the wheel to print and have slight tolerances when putting the file together.
 
+### Amazon Crates
+I designed my own crates using a beer crate file on Thingiverse and then sizing it down to the size of the bed. I then imported the AI logo into the crate file. I also desigend 3 crates together in Rhino to ensure they would fit together. Then I tried to do a boolean difference on the bottom crate to make sure that the crates would stack on top. I also put th Amazon logo into 1 of the crates using the extrude function in Rhino. After importing this into Cura, I actually realized that the crates were too thin after they were scaled down so I ended up scaling up individual walls to the crates so that they would print.
+
+### Gyroid Box & Folding Box
+I used an existing Thingiverse file for the Gyroid Box and the Folding Box that I then resized, shaped and transformed in Rhino. Similar to the crates, I sized to the tolerances of the trailer and inserted the Amazon Logo.
+
 ## Calipers
+In order to fit the components of the crates, I first actually printed the trailer frame before anything else. I then used calipers to measure the exact dimensions of the tolerances of the frame, the wheel well and the frame bed size. I measured the width of the cargo trailer as 49.49mm and the length as 120.60 mm. Height of 12.77 mm
+
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG
 
-##Printing
+## Printing
 Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG
 Frame: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1332.JPG
 Separating the Frame/Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG
 
-##Creating my own Screws
-https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1325.JPG
+
 
 ##Assembly
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG
@@ -91,9 +99,6 @@ https://www.thingiverse.com/thing:193647/files
 
 
 ##Rendering
-I rendered the carla trailer by going to the Standard Settings -> Typing in _Shade -> Turning off the Grid Lines -> going to Panel and then selecting Render -> Going back to Shade view port and selecting the Blue Dot. Then I modified the shade settings by adding a color gradient (Orange + Blue) and changing the material to a Metal (Steel) in the color of orange.
-
-Then I converted the setitngs into RayTrace where I got a clearer image.
 
 ##Measuring with Calipers
 
