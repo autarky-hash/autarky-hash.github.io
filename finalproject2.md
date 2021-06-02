@@ -26,7 +26,8 @@ Rendering, AI Tracing, Rhino, Grasshopper, Cura, Finishing
 ## Concept: Last Mile Bike Delivery Options
 I initially wanted to re-create the cargo bike trailer we were using at work and then find modular components to solve our problem of gettng packages protected and easily accessible but also viably swapped on a simple trailer. I had initially planned/started off to make larger crates that we can print for the actual trailer that can attach to each other but then I sent it to our lab at work and they said that the material cost for a larger crate was going to be 4k. So I set out to design and modify a smaller trailer with smaller crate and bopx options.
 
-Actual Carla Cargo Trailer: <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1244.JPG" height=px> 
+Actual Carla Cargo Trailer: 
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1244.JPG" height=px> 
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1245%20(1).JPG" height=px> 
 
 ##Calipers
