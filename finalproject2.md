@@ -42,7 +42,8 @@ I rendered the carla trailer by going to the Standard Settings -> Typing in _Sha
 
 ## Adobe Illustrator Design & Import (Logo)
 I wanted to add the Amazon logo to some of the crates to show the applicability in delivery and design. In order to do so, I pulled the Amazon logo from Google (https://en.logodownload.org/amazon-logo/) and then I went into Adobe Illustrator, made it black and white and ran a Image Trace to get the vector image. I then did a simplify and group curves to import into Rhino as layers on the crates.
-<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/illustratorlogo.png" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IllustratorLogo.png" height=px>
+
 AI File: 
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/amazon_imagetrace.ai
 
