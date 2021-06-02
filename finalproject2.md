@@ -1,7 +1,9 @@
 # Diana Tan
 
 ## Final Project
-
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1329.JPG
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1330.JPG
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1331.JPG
 
 
 
@@ -29,6 +31,7 @@ https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG
 
 ##Printing
 Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG
+Frame: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1332.JPG
 Separating the Frame/Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG
 
 ##Creating my own Screws
@@ -36,7 +39,7 @@ https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1325.JPG
 
 ##Assembly
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG
-
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG
 
 ##Thingiverse Files
 Carla Trailer:
