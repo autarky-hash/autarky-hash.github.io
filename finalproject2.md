@@ -1,10 +1,53 @@
 # Diana Tan
 
+## Final Project
+
+
+
+
+Background & Summary: I initially wanted to create a puzzle table made up of building blocks that connected to each other in lieu of creating a cargo bike trailer that had a lot of complexity. However, after our conversation in class where I went through my proposal and was told to simplify into something smaller, I actually went back to the drawing board and creating a "modular" version of a bike as well as connected cargo boxes- basically an amalgamation of the original concept but without magnets or large sizes. 
+
+Concepts Used: Rendering, AI Tracing, Rhino, Grasshopper, Cura, Finishing
+
+Components Created/Designed/Modified:
+1. Carla Cargo Trailer Frame
+2. Carla Cargo Trailer Hinges/Tow Bar
+3. Carla Cargo Trailer Wheels
+4. Custom Screws, Nuts, Washers for Assembly
+5. Milk Crate
+6. Voloroi Crate
+7. Folding Bin
+8. Custom Amazon Logo
+
+##Concept
+Carla Cargo: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1244.JPG
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1245%20(1).JPG
+
+
+##Calipers
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG
+
+##Printing
+Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG
+Separating the Frame/Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG
+
+##Creating my own Screws
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1325.JPG
+
+##Assembly
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG
+
+
 ##Thingiverse Files
+Carla Trailer:
+https://grabcad.com/library/carla-cargo-crowd-1
 Milk Crate:
 https://www.thingiverse.com/thing:4638637/files
 4 Shelf Bin:
 https://www.thingiverse.com/thing:1489606/files
+Nuts and Screws:
+https://www.thingiverse.com/thing:193647/files
+
 
 ##Rendering
 I rendered the carla trailer by going to the Standard Settings -> Typing in _Shade -> Turning off the Grid Lines -> going to Panel and then selecting Render -> Going back to Shade view port and selecting the Blue Dot. Then I modified the shade settings by adding a color gradient (Orange + Blue) and changing the material to a Metal (Steel) in the color of orange.
