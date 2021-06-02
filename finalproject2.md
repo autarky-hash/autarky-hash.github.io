@@ -37,6 +37,8 @@ I initially wanted to re-create the cargo bike trailer we were using at work and
 I rendered the carla trailer by going to the Standard Settings -> Typing in _Shade -> Turning off the Grid Lines -> going to Panel and then selecting Render -> Going back to Shade view port and selecting the Blue Dot. Then I modified the shade settings by adding a color gradient (Orange + Blue) and changing the material to a Metal (Steel) in the color of Gold. Then I converted the setitngs into RayTrace where I got a clearer image. I rendered multiple components- the bike, the cargo boxes and the bike + cargo box. However, I opted to not render the screws, wheels or other componentry since I didn't feel like I needed to see a screw in Raytrace...
 
 <img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/64411442855__8CDF0821-CF88-4F55-9FA8-7E92B6443CB4.JPG" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/Render_Carla.png" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/Render_CarlaRaytraced.png" height=px>
 
 ## Calipers
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG
