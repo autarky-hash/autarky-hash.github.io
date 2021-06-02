@@ -42,12 +42,16 @@ I rendered the carla trailer by going to the Standard Settings -> Typing in _Sha
 
 ## Adobe Illustrator Design & Import (Logo)
 I wanted to add the Amazon logo to some of the crates to show the applicability in delivery and design. In order to do so, I pulled the Amazon logo from Google (https://en.logodownload.org/amazon-logo/) and then I went into Adobe Illustrator, made it black and white and ran a Image Trace to get the vector image. I then did a simplify and group curves to import into Rhino as layers on the crates.
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/illustratorlogo.png" height=px>
+AI File: 
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/amazon_imagetrace.ai
 
 ## Rhino Modifications (Reference Files at Bottom of Doc)
 I had to create multiple Rhino files for each individual component.
 
 ### Carla Trailer
 The Carla Trailer was by far the most complex part that I had to modify. The CAD file was readily available online but when imported into Rhino, created a component that was not printable due to the number of parts, the complexity of each component and the non-manifold nature of each component. Basically, for example, the wheels, were a series of "string" instead of a mesh. In Rhino, I converted this into a Mesh through Exploding, deleted the extraneous components that were too small to print and then separated the trailer into multiple prints that I then redesigned. This turned into the Frame, the Wheels (completely new design), the Handlebars and the Fork.
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/CADDetailCarla.png" height=px>
 
 #### Carla Frame via Grasshopper
 I separated the Frame from the rest of the components but then found that the frame mesh was too thin to actually print. Offsetting the frame in Rhino manually would also then change the tolerances of the other components. Instead, I found and modified a Grasshopper file from Weaverbird to Thicken the Mesh. Then I tested the different thickening variables until I can find the right balance between being "too" thick of a mesh but also too thin of a mesh that would be unprintable. I also modified the original Weaverbird Grasshopper plugin since it had a toggle function (Separate App) that was no longer available so I ended up deleting the toggle.
