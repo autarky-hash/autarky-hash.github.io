@@ -59,7 +59,7 @@ After going to the hardware store, I found that there were no mm screws that wou
 
 For the handlebars and frame, I ended up cutting them out of the CAD file, removing any complexity, combining the Mesh and then resizing them in a way that was printable.
 
-<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/screwRhino.png" height=px> 
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/ScrewRhino.png" height=px> 
 
 ### Carla Wheels
 I used my own wheels from thingiverse as opposed to trying to modify the Carla CAD wheels because of the complexity of the number of spokes in the CAD file. I basically used the Distance function in Rhino to calculate the size and then scaled the wheels down. I also put both the wheel and the rims together and used a Flex PLA material to get the wheel to print and have slight tolerances when putting the file together.
