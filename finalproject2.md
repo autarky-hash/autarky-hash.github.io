@@ -81,10 +81,10 @@ I actually tried 4 different types of Filament with different settings in Cura. 
 In order to get bed adhesion, ease of removing the supports, and modifying for the material, I adjusted the Cura settings according to each filament and item I was trying to print. For the Carbon Fiber Filament, for example, I used a 225 C temperature at a 40 mm/s speed for the print. For the wheels, I actually used a brim instead of a raft so I would be able to remove from the bed easier. For the frame, I actually used supports and a raft. For the boxes, I used a raft at a standard 200 C temperature with minimal supports.
 
 Midway through the prints, I realized that the filament feeder nozzle was broken, which was causing my prints to not print or stop halfway because the filament stopped feeding. I learned the hard way to start over and buy a new nozzle and reprint all my prints in action.
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG" height=px>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1332.JPG" height=px>
+<img src=" https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG" height=px>
 
-Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG
-Frame: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1332.JPG
-Separating the Frame/Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG
 
 ## Polishing & Assembly
 ### Sanding and Support:
@@ -92,9 +92,8 @@ I first removed the supports from all my prints using a knife, scraper and finge
 
 ### Assembly:
 I designed the product to have minimal gluing, leveraging instead the screws as well as the tolerances of the bike trailer to hold everything in place. I screwed the axles onto the wheels. However, to further keep it from moving, I had to then hot glue the axle screw onto the trailer frame. I also had to glue the handle and the fork onto the bike. I tried to print components that can screw them together but the tolerances were too narrow for the 3D printer. The benefit of using hot glue is that it maintained the "flex" of the handle and the fork so we can still move the handle and fork a little bit like a real trailer. 
-
-https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG
-https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG
+<img src=" https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG" height=px>
+<img src=" https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG" height=px>
 
 ## STL Files
 Trailer Grasshopper:
