@@ -121,14 +121,24 @@ Crate:
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/amazoncrate_Offset.stl
 
 ## Thingiverse Files
+
 Carla Trailer:
 https://grabcad.com/library/carla-cargo-crowd-1
+
 Milk Crate:
 https://www.thingiverse.com/thing:4638637/files
+
 4 Shelf Bin:
 https://www.thingiverse.com/thing:1489606/files
+
 Nuts and Screws:
 https://www.thingiverse.com/thing:193647/files
+
+Gyroid Container:
+https://www.thingiverse.com/thing:4592823
+
+Tires:
+https://www.thingiverse.com/thing:21009
 
 # Old Proposal
 
