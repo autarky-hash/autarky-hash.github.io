@@ -72,22 +72,47 @@ I designed my own crates using a beer crate file on Thingiverse and then sizing 
 I used an existing Thingiverse file for the Gyroid Box and the Folding Box that I then resized, shaped and transformed in Rhino. Similar to the crates, I sized to the tolerances of the trailer and inserted the Amazon Logo.
 
 ## Calipers
-In order to fit the components of the crates, I first actually printed the trailer frame before anything else. I then used calipers to measure the exact dimensions of the tolerances of the frame, the wheel well and the frame bed size. I measured the width of the cargo trailer as 49.49mm and the length as 120.60 mm. Height of 12.77 mm
+In order to fit the components of the crates, I first actually printed the trailer frame before anything else. I then used calipers to measure the exact dimensions of the tolerances of the frame, the wheel well and the frame bed size. I measured the width of the cargo trailer as 49.49mm and the length as 120.60 mm. Height of 12.77 mm.
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG" height=px>
 
-https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1302.JPG
+## Cura & Printing
+I actually tried 4 different types of Filament with different settings in Cura. For the frame, I used the standard yellow plastic PLA. For the Wheels, I used a "flex" rubber type of Filament. For the boxes, I used a protoplastic purple filament that had glitter and color changing components. For the gyroid box and the folding Amazon box, I used a clear PLA. For the screws, handlebars and bike fork, I actually tried to use a Carbon Fiber Filament but the filament had a lot of trouble adhering to itself after the first layer.
 
-## Printing
+In order to get bed adhesion, ease of removing the supports, and modifying for the material, I adjusted the Cura settings according to each filament and item I was trying to print. For the Carbon Fiber Filament, for example, I used a 225 C temperature at a 40 mm/s speed for the print. For the wheels, I actually used a brim instead of a raft so I would be able to remove from the bed easier. For the frame, I actually used supports and a raft. For the boxes, I used a raft at a standard 200 C temperature with minimal supports.
+
+Midway through the prints, I realized that the filament feeder nozzle was broken, which was causing my prints to not print or stop halfway because the filament stopped feeding. I learned the hard way to start over and buy a new nozzle and reprint all my prints in action.
+
 Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1303.JPG
 Frame: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1332.JPG
 Separating the Frame/Wheels: https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1304.JPG
 
+## Polishing & Assembly
+### Sanding and Support:
+I first removed the supports from all my prints using a knife, scraper and fingers. I cut out all the excess filament. Then, I sanded down each component with 80 grit sandpaper, 120 grit sandpaper and finally polished with 200 grit sandpaper. However, there were some components that were difficult to sand without breaking it (for example, the trailer frame was so thin that if you sanded it roughly, it would probably break). The most challenging component I chose not to sand were the tires which were printed with the rubber-like Flex PLA. Because they were flex, they were impossible to sand. I tried to cut out excess filament with my knife instead. I polished the Amazon crates with Brasso and covered it with a clear coat of poly as a test.
 
+### Assembly:
+I designed the product to have minimal gluing, leveraging instead the screws as well as the tolerances of the bike trailer to hold everything in place. I screwed the axles onto the wheels. However, to further keep it from moving, I had to then hot glue the axle screw onto the trailer frame. I also had to glue the handle and the fork onto the bike. I tried to print components that can screw them together but the tolerances were too narrow for the 3D printer. The benefit of using hot glue is that it maintained the "flex" of the handle and the fork so we can still move the handle and fork a little bit like a real trailer. 
 
-##Assembly
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1327.JPG
 https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1328.JPG
 
-##Thingiverse Files
+## STL Files
+Trailer Grasshopper:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/CarlaTrailer_Grasshopper.stl
+Trailer Handle:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/CarlaTrailer_HandleOnly.stl
+Trailer Fork:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/CarlaTrailer_Handlebars.stl
+Folding Box:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/FoldingBox_Both.stl
+Gyroid Container:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/Gyroid_Container_Bulge.stl
+Screws:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/HandlebarsNutsBoltWashers.stl
+Crate:
+https://github.com/autarky-hash/autarky-hash.github.io/blob/main/amazoncrate_Offset.stl
+
+## Thingiverse Files
 Carla Trailer:
 https://grabcad.com/library/carla-cargo-crowd-1
 Milk Crate:
@@ -97,14 +122,7 @@ https://www.thingiverse.com/thing:1489606/files
 Nuts and Screws:
 https://www.thingiverse.com/thing:193647/files
 
-
-##Rendering
-
-##Measuring with Calipers
-
-I measured the width of the cargo trailer as 49.49mm and the length as 120.60 mm. Height of 12.77 mm
-
-
+# Old Proposal
 
 ## Final Project Proposal
 Create a proposal pitch for your final project. Your pitch should include a concept, including concept sketches, intended use case, context, a rendering, a breakdown of tasks (e.g. CAD modelling, 3d printing, casting, finishing), a timeline with contingency plans, a Bill of Materials with sourcing schedule
