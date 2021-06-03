@@ -2,9 +2,9 @@
 
 # Final Project
 <html>
-<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1329.JPG" height="px">
-<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1330.JPG" height="px">
-<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1331.JPG" height="px">
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1329.JPG" height="px"/>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1330.JPG" height="px"/>
+<img src="https://github.com/autarky-hash/autarky-hash.github.io/blob/main/IMG_1331.JPG" height="px"/>
 </html>
 
 ### Background & Summary: 
