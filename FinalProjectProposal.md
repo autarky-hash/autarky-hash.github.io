@@ -1,19 +1,4 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  
-# Diana Tan
+  # Diana Tan
 
 ## Final Project Proposal
 Create a proposal pitch for your final project. Your pitch should include a concept, including concept sketches, intended use case, context, a rendering, a breakdown of tasks (e.g. CAD modelling, 3d printing, casting, finishing), a timeline with contingency plans, a Bill of Materials with sourcing schedule
